@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/hadoop-auth-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/hadoop-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/hadoop-hdfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/storm-core-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/storm-hdfs-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/program/storm/libs/storm-hdfs-0.9.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
